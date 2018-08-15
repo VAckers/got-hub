@@ -1,2 +1,3 @@
 # got-hub
-A repository named with a goofy pun
+A repository named from a goofy pun
+I like cheese
